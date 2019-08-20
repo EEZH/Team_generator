@@ -14,7 +14,6 @@ komanda_Nacked = []
 komanda_Nacked_l = []
 komanda_Green_l = []
 
-
 # выборка тех, кто идёт
 def select_player():
     b = []
